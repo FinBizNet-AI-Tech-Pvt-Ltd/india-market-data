@@ -1,0 +1,70 @@
+section,indicator,value,unit,period,previous_value,source
+Prices and output,Consumer prices (CPI),5.54,%,2026-09,4.82,MOSPI
+Prices and output,Consumer prices (CPI): CPI inflation (Rural),6.08,%,2026-09,5.23,MOSPI
+Prices and output,Consumer prices (CPI): CPI inflation (Urban),4.88,%,2026-09,4.31,MOSPI
+Prices and output,Wholesale prices (WPI),11.39,%,2026-09,9.92,DPIIT
+Prices and output,Industrial production (IIP),6.7,%,2026-09,8,MOSPI
+Policy rates,Policy Repo Rate,5.5,percent,2026-11-09,,RBI
+Policy rates,Standing Deposit Facility Rate,5.25,percent,2026-11-09,,RBI
+Policy rates,Marginal Standing Facility Rate,5.75,percent,2026-11-09,,RBI
+Policy rates,Bank Rate,5.75,percent,2026-11-09,,RBI
+Policy rates,Fixed Reverse Repo Rate,3.35,percent,2026-11-09,,RBI
+Reserve ratios,CRR,3,percent,2026-11-09,,RBI
+Reserve ratios,SLR,18,percent,2026-11-09,,RBI
+Money market,Call Rates,4.30% - 5.75%,percent,2026-11-05,,RBI
+Treasury bills,91 day T-bills,5.897,percent,2026-11-08,,RBI
+Treasury bills,182 day T-bills,6.5493,percent,2026-11-02,,RBI
+Treasury bills,364 day T-bills,6.6485,percent,2026-11-08,,RBI
+Government security yields,6.20% GS 2029,6.8812,percent,2026-11-08,,RBI
+Government security yields,6.53% GS 2031,6.9753,percent,2026-11-08,,RBI
+Government security yields,6.94% GS 2036,7.193,percent,2026-11-08,,RBI
+Government security yields,7.06% GS 2041,7.3759,percent,2026-11-08,,RBI
+Government security yields,7.24% GS 2055,7.6807,percent,2026-09-30,,RBI
+Government security yields,7.63% GS 2056,7.6764,percent,2026-11-08,,RBI
+What banks charge and pay,Base Rate,8.40% - 10.00%,percent,2026-11-09,,RBI
+What banks charge and pay,MCLR (Overnight),7.85% - 8.00%,percent,2026-11-09,,RBI
+What banks charge and pay,Savings Deposit Rate,2.5,percent,2026-11-09,,RBI
+What banks charge and pay,Term Deposit Rate > 1 Year,6.00% - 6.75%,percent,2026-11-09,,RBI
+Reference exchange rates,INR / 1 USD,93.8579,INR per 1 USD,2026-11-09,,RBI
+Reference exchange rates,INR / 1 GBP,125.6125,INR per 1 GBP,2026-11-09,,RBI
+Reference exchange rates,INR / 1 EUR,104.7683,INR per 1 EUR,2026-11-09,,RBI
+Reference exchange rates,INR / 100 JPY,59.31,INR per 100 JPY,2026-11-09,,RBI
+Reference exchange rates,INR / 1 AED,25.554,INR per 1 AED,2026-11-09,,RBI
+Reference exchange rates,INR / 10000 IDR,51.826,INR per 10000 IDR,2026-11-09,,RBI
+Forex reserves,Total reserves,717056.42,USD bn,2026-10-30,,RBI
+Money and bank credit,Money and deposits: Broad money (M3),337.66,₹ lakh cr,2026-09,332.22,RBI
+Money and bank credit,Money and deposits: Bank deposits,294.32,₹ lakh cr,2026-09,289.05,RBI
+Money and bank credit,Money and deposits: Currency with the public,42.07,₹ lakh cr,2026-09,41.94,RBI
+Money and bank credit,Credit: Bank credit to the commercial sector,238.5,₹ lakh cr,2026-09,232.41,RBI
+Money and bank credit,Credit: Non-food bank credit,228.98,₹ lakh cr,2026-09,222.76,RBI
+Money and bank credit,Credit: Credit-deposit ratio,81,%,2026-09,80.4,RBI
+Average lending and deposit rates,New loans and deposits: Lending rate,8.51,%,2026-09,8.61,RBI
+Average lending and deposit rates,New loans and deposits: Term deposit rate,5.61,%,2026-09,5.67,RBI
+Average lending and deposit rates,New loans and deposits: Spread,2.9,pp,2026-09,2.94,RBI
+Average lending and deposit rates,Whole book: Lending rate,8.96,%,2026-09,8.96,RBI
+Average lending and deposit rates,Whole book: Term deposit rate,6.55,%,2026-09,6.56,RBI
+Average lending and deposit rates,Whole book: Spread,2.41,pp,2026-09,2.4,RBI
+Core sector output,"Output, year on year: Coal",10.7,%,2026-09,-3.8,Office of the Economic Adviser
+Core sector output,"Output, year on year: Crude oil",-1.4,%,2026-09,-3.6,Office of the Economic Adviser
+Core sector output,"Output, year on year: Natural gas",-4.6,%,2026-09,-4.9,Office of the Economic Adviser
+Core sector output,"Output, year on year: Refinery products",10.3,%,2026-09,5.6,Office of the Economic Adviser
+Core sector output,"Output, year on year: Fertilisers",-11.7,%,2026-09,-12.4,Office of the Economic Adviser
+Core sector output,"Output, year on year: Steel",4.9,%,2026-09,3.5,Office of the Economic Adviser
+Core sector output,"Output, year on year: Cement",9.8,%,2026-09,11.7,Office of the Economic Adviser
+Core sector output,"Output, year on year: Electricity",11.4,%,2026-09,13.1,Office of the Economic Adviser
+Core sector output,"Output, year on year: Iron ore",18.4,%,2026-09,5.5,Office of the Economic Adviser
+Fuel demand,"Consumption, year on year: All petroleum products",2.7,%,2026-10,0.4,PPAC
+Fuel demand,"Consumption, year on year: Diesel",12,%,2026-10,5.6,PPAC
+Fuel demand,"Consumption, year on year: Petrol",3.5,%,2026-10,7.9,PPAC
+Fuel demand,"Consumption, year on year: Jet fuel",0.4,%,2026-10,1,PPAC
+Fuel demand,"Consumption, year on year: Bitumen",16.6,%,2026-10,16.4,PPAC
+Vehicle registrations,"Registrations, year on year: All vehicles",-23.6,%,2026-10,33.6,VAHAN
+Vehicle registrations,"Registrations, year on year: Two-wheelers",-28.2,%,2026-10,34,VAHAN
+Vehicle registrations,"Registrations, year on year: Passenger vehicles",-13.4,%,2026-10,37,VAHAN
+Vehicle registrations,"Registrations, year on year: Three-wheelers",4,%,2026-10,24.5,VAHAN
+Vehicle registrations,"Registrations, year on year: Commercial vehicles",1.7,%,2026-10,40.8,VAHAN
+Vehicle registrations,"Registrations, year on year: Tractors",4.7,%,2026-10,16.4,VAHAN
+Vehicle registrations,Electric share of registrations: Two-wheelers,9.7,%,2026-10,11.6,VAHAN
+Vehicle registrations,Electric share of registrations: Four-wheelers,7.3,%,2026-10,8.7,VAHAN
+Vehicle registrations,"Electric share of registrations: Three-wheelers, incl. e-rickshaws",62.6,%,2026-10,64.1,VAHAN
+Services exports,"Exports, year on year: All services",7.2,%,2026-09,13.7,RBI

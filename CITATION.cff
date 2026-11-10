@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below and link to https://finbiznet.com/data."
+title: "India market data"
+type: dataset
+authors:
+  - name: "FinBizNet"
+    website: "https://finbiznet.com"
+url: "https://finbiznet.com/data"
+repository-code: "https://github.com/FinBizNet-AI-Tech-Pvt-Ltd/india-market-data"
+license: CC-BY-4.0
+keywords:
+  - India
+  - FII
+  - FPI
+  - DII
+  - NSDL
+  - NSE
+  - stock market
+  - economic indicators
+  - CPI
+  - defence

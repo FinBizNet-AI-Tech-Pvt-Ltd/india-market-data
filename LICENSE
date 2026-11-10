@@ -1,0 +1,18 @@
+The datasets in data/ are licensed under the Creative Commons Attribution 4.0
+International licence (CC BY 4.0).
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary:         https://creativecommons.org/licenses/by/4.0/
+
+You may share and adapt the data for any purpose, including commercially, as
+long as you give appropriate credit: name FinBizNet, link to the page for the
+dataset on https://finbiznet.com/data, and indicate if you made changes.
+
+The underlying figures come from public filings and official statistics
+(NSDL, NSE, BSE, MOSPI, DPIIT, RBI). Each publisher's own terms continue to
+apply to its data.
+
+scripts/update.py and .github/workflows/update.yml may be reused under the
+same CC BY 4.0 terms.
+
+Copyright (c) 2026 FinBizNet
