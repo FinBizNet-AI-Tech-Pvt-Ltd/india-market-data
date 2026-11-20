@@ -22,6 +22,7 @@ FILES = {
     "fii-flows-by-month.csv": "fii-flows-by-month/fii-flows-by-month.csv",
     "fii-dii-daily.csv": "fii-dii-activity/fii-dii-daily.csv",
     "defence-order-books.csv": "defence-order-books/defence-order-books.csv",
+    "order-books.csv": "order-books/order-books.csv",
     "india-economic-indicators.csv": "india-economic-indicators/india-economic-indicators.csv",
     "india-market-2025-indices.csv": "india-market-2025/india-market-2025-indices.csv",
     "india-market-2026-indices.csv": "india-market-2026/india-market-2026-indices.csv",

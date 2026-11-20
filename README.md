@@ -1,6 +1,6 @@
 # India market data (FinBizNet)
 
-Free, citable CSV datasets on Indian markets and the economy: FII/FPI flows, FII and DII daily cash-market activity, defence order books, official macro indicators, and sector index performance by year.
+Free, citable CSV datasets on Indian markets and the economy: FII/FPI flows, FII and DII daily cash-market activity, order books (defence and capital goods / infrastructure), official macro indicators, and sector index performance by year.
 
 The files are the public tables published on [finbiznet.com/data](https://finbiznet.com/data). A scheduled job refreshes them every Monday, so this repository's commit history is a dated record of every version.
 
@@ -13,6 +13,7 @@ The files are the public tables published on [finbiznet.com/data](https://finbiz
 | [`fii-flows-by-month.csv`](data/fii-flows-by-month.csv) | Monthly net FPI investment in Indian equities, Feb 2021 to date, ₹ crore | NSDL FPI daily trends, summed by reporting month | [FII flows by month](https://finbiznet.com/data/fii-flows-by-month) |
 | [`fii-dii-daily.csv`](data/fii-dii-daily.csv) | FII and DII buy, sell and net in the cash market, by session, ₹ crore | NSE's daily FII/DII provisional figures | [FII & DII activity](https://finbiznet.com/data/fii-dii-activity) |
 | [`defence-order-books.csv`](data/defence-order-books.csv) | Order book and order inflow for listed Indian defence companies, ₹ crore | Order books from earnings-call disclosures; inflow from BSE Reg-30 "Receipt of Order" filings | [Defence order books](https://finbiznet.com/data/defence-order-books) |
+| [`order-books.csv`](data/order-books.csv) | Latest order book of listed Indian capital goods, EPC, power, rail and infrastructure companies, with the previous disclosure, ₹ crore | Management disclosures on earnings calls and in investor presentations | [Order books](https://finbiznet.com/data/order-books) |
 | [`india-economic-indicators.csv`](data/india-economic-indicators.csv) | CPI, WPI, IIP, RBI policy and market rates, forex reserves and more, each with its period and previous value | MOSPI, DPIIT, RBI | [India economic indicators](https://finbiznet.com/data/india-economic-indicators) |
 | [`india-market-2026-indices.csv`](data/india-market-2026-indices.csv) | Nifty 50 and sector indices: 2026 change to date, P/E, closing high and low | NSE daily index close file | [India market 2026](https://finbiznet.com/data/india-market-2026) |
 | [`india-market-2025-indices.csv`](data/india-market-2025-indices.csv) | The same for calendar 2025 | NSE daily index close file | [India market 2025](https://finbiznet.com/data/india-market-2025) |
@@ -37,6 +38,13 @@ The files are the public tables published on [finbiznet.com/data](https://finbiz
 - `order_book_as_of`: the quarter of that disclosure.
 - `fy_inflow_disclosed_cr`: order inflow this financial year from Reg-30 filings that stated a value.
 - `ttm_order_wins`: the count of order-win filings in the trailing 12 months.
+
+**order-books.csv**
+- `company`.
+- `order_book_cr`: the latest order book the company disclosed, ₹ crore.
+- `order_book_as_of`: the date of that disclosure; `period`: its quarter.
+- `previous_order_book_cr`, `previous_period`: the disclosure before it.
+- Each figure is the company's own definition (some include L1 orders) and is not adjusted to one standard. Defence companies are in `defence-order-books.csv`.
 
 **india-economic-indicators.csv**
 - `section`, `indicator`, `value`, `unit`, `period`, `previous_value`, `source`.
