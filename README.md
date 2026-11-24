@@ -1,5 +1,8 @@
 # India market data (FinBizNet)
 
+> **No longer updated (24 Nov 2026).** The weekly refresh has stopped and the files below are frozen at their last version. The pages on finbiznet.com/data remain readable but no longer offer downloads.
+
+
 Free, citable CSV datasets on Indian markets and the economy: FII/FPI flows, FII and DII daily cash-market activity, order books (defence and capital goods / infrastructure), official macro indicators, and sector index performance by year.
 
 The files are the public tables published on [finbiznet.com/data](https://finbiznet.com/data). A scheduled job refreshes them every Monday, so this repository's commit history is a dated record of every version.
